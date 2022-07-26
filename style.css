@@ -765,4 +765,13 @@ header .song_side .popular_artists .item li img {
        width: 0px;
         height: 0px;
     }
+    header .menu_side .menu_song li {
+      margin-bottom: 18px;
+  }
+  .menu_song .songItem .bi-play-circle-fill::before {
+    margin-top: 20px;
+}
+header .master_play h5 .subtitle {
+  display: none;
+}
 }
